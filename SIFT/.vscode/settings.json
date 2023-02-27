@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "array": "cpp",
+        "string_view": "cpp",
+        "*.tcc": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "utility": "cpp",
+        "valarray": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "*.ipp": "cpp"
+    }
+}
