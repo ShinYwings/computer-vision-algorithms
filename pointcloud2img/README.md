@@ -11,3 +11,6 @@ Following model params are stored in my external SSD
 - simvsfm_cam_params
 - fixed_cam_params
 
+# Result
+
+![res](3d2d.jpg)
